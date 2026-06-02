@@ -1,500 +1,500 @@
 [
   {
-    "Data": 46174,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-01",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46174,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "ADMINISTRAÇÃO "
+    "data": "2026-06-01",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "ADMINISTRAÇÃO"
   },
   {
-    "Data": 46174,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-01",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46174,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-01",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46174,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "NOTEBOOK HP",
-    "Turma": "DEBERSON 17"
+    "data": "2026-06-01",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "DEBERSON 17"
   },
   {
-    "Data": 46175,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46175,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46175,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46175,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. INFORMÁTICA",
-    "Turma": "Desenv. Sistemas"
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Desenv. Sistemas"
   },
   {
-    "Data": 46175,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "TÉC. QUALIDADE"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "TÉC. QUALIDADE"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Assi. de Recursos humanos"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Assi. de Recursos humanos"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "SAEP"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "SAEP"
   },
   {
-    "Data": 46176,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "NOTEBOOK HP",
-    "Turma": "DEBERSON 17"
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "DEBERSON 17"
   },
   {
-    "Data": 46177,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "FERIADO "
+    "data": "2026-06-04",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "FERIADO"
   },
   {
-    "Data": 46179,
-    "DiaSemana": "SÁBADO",
-    "Sala": "NOTEBOOK HP",
-    "Turma": "Fellipe 10"
+    "data": "2026-06-06",
+    "diaSemana": "SÁBADO",
+    "sala": "NOTEBOOK HP",
+    "turma": "Fellipe 10"
   },
   {
-    "Data": 46181,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-08",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46181,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": " PROVA SESI"
+    "data": "2026-06-08",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "PROVA SESI"
   },
   {
-    "Data": 46181,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "ADMINISTRAÇÃO "
+    "data": "2026-06-08",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "ADMINISTRAÇÃO"
   },
   {
-    "Data": 46181,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-08",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46181,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-08",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46182,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46182,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. INFORMÁTICA",
-    "Turma": "Desenv. Sistemas"
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Desenv. Sistemas"
   },
   {
-    "Data": 46182,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46182,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46182,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "NOTEBOOK HP",
-    "Turma": "DEBERSON 17"
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "DEBERSON 17"
   },
   {
-    "Data": 46183,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46183,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46183,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46183,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46183,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "SAEP"
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "SAEP"
   },
   {
-    "Data": 46184,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-11",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46184,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-11",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46184,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-11",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46184,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-11",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46184,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "APP - Montagem de Painéis"
+    "data": "2026-06-11",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "APP - Montagem de Painéis"
   },
   {
-    "Data": 46186,
-    "DiaSemana": "SÁBADO",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Eletromecanica 3º"
+    "data": "2026-06-13",
+    "diaSemana": "SÁBADO",
+    "sala": "LA. MECÂNICA",
+    "turma": "Eletromecanica 3º"
   },
   {
-    "Data": 46188,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46188,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "ADMINISTRAÇÃO "
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "ADMINISTRAÇÃO"
   },
   {
-    "Data": 46188,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46188,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46189,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-16",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46189,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. INFORMÁTICA",
-    "Turma": "Desenv. Sistemas"
+    "data": "2026-06-16",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Desenv. Sistemas"
   },
   {
-    "Data": 46189,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-16",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46189,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-16",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46190,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46190,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46190,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46190,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46190,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "SAEP"
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "SAEP"
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "SAEP"
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "SAEP"
   },
   {
-    "Data": 46191,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "APP - Montagem de Painéis"
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "APP - Montagem de Painéis"
   },
   {
-    "Data": 46195,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "ADMINISTRAÇÃO "
+    "data": "2026-06-22",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "ADMINISTRAÇÃO"
   },
   {
-    "Data": 46195,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-22",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46195,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-22",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46196,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-23",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46196,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. INFORMÁTICA",
-    "Turma": "Desenv. Sistemas"
+    "data": "2026-06-23",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Desenv. Sistemas"
   },
   {
-    "Data": 46196,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-23",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46196,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-23",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "Data": 46197,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46197,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "TÉC. QUALIDADE "
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "TÉC. QUALIDADE"
   },
   {
-    "Data": 46197,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46197,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46197,
-    "DiaSemana": "QUARTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46198,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-25",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46198,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA 03",
-    "Turma": "Eletromecanica1º"
+    "data": "2026-06-25",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica1º"
   },
   {
-    "Data": 46198,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "SALA MÓVEL ",
-    "Turma": "Operador de processos"
+    "data": "2026-06-25",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Operador de processos"
   },
   {
-    "Data": 46198,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-25",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46198,
-    "DiaSemana": "QUINTA-FEIRA",
-    "Sala": "LAB. ELÉTRICA",
-    "Turma": "APP - Montagem de Painéis"
+    "data": "2026-06-25",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "APP - Montagem de Painéis"
   },
   {
-    "Data": 46202,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-29",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46202,
-    "DiaSemana": "SEGUNDA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-29",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46203,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 01",
-    "Turma": "ELETROTÉCNICA 1º MÓD."
+    "data": "2026-06-30",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA 1º MÓD."
   },
   {
-    "Data": 46203,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "SALA 02",
-    "Turma": "Automação T2 | 1º Semestre"
+    "data": "2026-06-30",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "Data": 46203,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. INFORMÁTICA",
-    "Turma": "Desenv. Sistemas"
+    "data": "2026-06-30",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Desenv. Sistemas"
   },
   {
-    "Data": 46203,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LA. MECÂNICA ",
-    "Turma": "Torneiro Mecanico"
+    "data": "2026-06-30",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LA. MECÂNICA",
+    "turma": "Torneiro Mecanico"
   },
   {
-    "Data": 46203,
-    "DiaSemana": "TERÇA-FEIRA",
-    "Sala": "LAB. AUTOMAÇÃO",
-    "Turma": "Automação T1 | 2º Semestre"
+    "data": "2026-06-30",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   }
 ]
