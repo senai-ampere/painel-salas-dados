@@ -170,8 +170,20 @@
   {
     "data": "2026-06-09",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Reunião Pais SESI"
+  },
+  {
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
     "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "TEATRO"
   },
   {
     "data": "2026-06-09",
@@ -196,6 +208,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "NOTEBOOK HP",
     "turma": "DEBERSON 17"
+  },
+  {
+    "data": "2026-06-10",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Reunião Pais SESI"
   },
   {
     "data": "2026-06-10",
