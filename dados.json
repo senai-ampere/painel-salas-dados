@@ -24,12 +24,6 @@
     "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "data": "2026-06-01",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "DEBERSON 17"
-  },
-  {
     "data": "2026-06-02",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
@@ -58,12 +52,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "Automação T1 | 2º Semestre"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "Fábio 12"
   },
   {
     "data": "2026-06-03",
@@ -114,28 +102,10 @@
     "turma": "SAEP"
   },
   {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "DEBERSON 17"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "NOTEBOOK DATEN",
-    "turma": "Fábio"
-  },
-  {
     "data": "2026-06-04",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
     "turma": "FERIADO"
-  },
-  {
-    "data": "2026-06-06",
-    "diaSemana": "SÁBADO",
-    "sala": "NOTEBOOK HP",
-    "turma": "Fellipe 10"
   },
   {
     "data": "2026-06-08",
@@ -202,12 +172,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "Automação T1 | 2º Semestre"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "DEBERSON 17"
   },
   {
     "data": "2026-06-10",
@@ -360,12 +324,6 @@
     "turma": "SAEP"
   },
   {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "Fábio 12"
-  },
-  {
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
@@ -400,12 +358,6 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "APP - Montagem de Painéis"
-  },
-  {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "NOTEBOOK HP",
-    "turma": "Fábio 12"
   },
   {
     "data": "2026-06-22",
