@@ -44,12 +44,6 @@
   {
     "data": "2026-06-02",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Automação T1 | 2º Semestre"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Desenv. Sistemas"
   },
@@ -58,6 +52,18 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LA. MECÂNICA",
     "turma": "Torneiro Mecanico"
+  },
+  {
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
+  },
+  {
+    "data": "2026-06-02",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "Fábio 12"
   },
   {
     "data": "2026-06-03",
@@ -86,6 +92,12 @@
   {
     "data": "2026-06-03",
     "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "EJA"
+  },
+  {
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "LA. MECÂNICA",
     "turma": "Torneiro Mecanico"
   },
@@ -106,6 +118,12 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "NOTEBOOK HP",
     "turma": "DEBERSON 17"
+  },
+  {
+    "data": "2026-06-03",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "NOTEBOOK DATEN",
+    "turma": "Fábio"
   },
   {
     "data": "2026-06-04",
@@ -324,6 +342,12 @@
     "turma": "SAEP"
   },
   {
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "Fábio 12"
+  },
+  {
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
@@ -358,6 +382,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "APP - Montagem de Painéis"
+  },
+  {
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "NOTEBOOK HP",
+    "turma": "Fábio 12"
   },
   {
     "data": "2026-06-22",
@@ -430,6 +460,12 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LA. MECÂNICA",
     "turma": "Torneiro Mecanico"
+  },
+  {
+    "data": "2026-06-24",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
     "data": "2026-06-25",
