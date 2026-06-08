@@ -122,20 +122,20 @@
   {
     "data": "2026-06-08",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
+    "sala": "LAB. INFORMÁTICA",
     "turma": "ADMINISTRAÇÃO"
   },
   {
     "data": "2026-06-08",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Torneiro Mecanico"
+    "turma": "TORNEIRO MECÂNICO"
   },
   {
     "data": "2026-06-08",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "Automação T2 | 1º Semestre"
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
     "data": "2026-06-09",
@@ -148,6 +148,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
     "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-06-09",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
     "data": "2026-06-09",
@@ -166,12 +172,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Torneiro Mecanico"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "Automação T1 | 2º Semestre"
   },
   {
     "data": "2026-06-10",
