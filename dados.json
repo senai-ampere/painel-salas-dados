@@ -254,6 +254,12 @@
   {
     "data": "2026-06-15",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "REUNIÃO PAIS APRENDIZAGEM"
+  },
+  {
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
     "turma": "ADMINISTRAÇÃO"
   },
