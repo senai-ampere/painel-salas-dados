@@ -243,7 +243,7 @@
     "data": "2026-06-13",
     "diaSemana": "SÁBADO",
     "sala": "LAB. MECÂNICA",
-    "turma": "Eletromecanica 3º"
+    "turma": "ELETROMECÂNICA | 3º MÓD."
   },
   {
     "data": "2026-06-15",
@@ -366,6 +366,18 @@
     "turma": "APP - Montagem de Painéis"
   },
   {
+    "data": "2026-06-20",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA | 3º MÓD"
+  },
+  {
+    "data": "2026-06-20",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. ELETROMECÂNICA | 4º MÓD"
+  },
+  {
     "data": "2026-06-22",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
@@ -472,6 +484,24 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "APP - Montagem de Painéis"
+  },
+  {
+    "data": "2026-06-27",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 01",
+    "turma": "ELETROTÉCNICA | 3º MÓD"
+  },
+  {
+    "data": "2026-06-27",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. ELETROMECÂNICA | 4º MÓD"
+  },
+  {
+    "data": "2026-06-27",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "ELETROMECÂNICA | 3º MÓD."
   },
   {
     "data": "2026-06-29",
