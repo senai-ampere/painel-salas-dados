@@ -243,7 +243,13 @@
     "data": "2026-06-12",
     "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "TESTE"
+    "turma": "TESTE Edição"
+  },
+  {
+    "data": "2026-06-12",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "teste"
   },
   {
     "data": "2026-06-13",
