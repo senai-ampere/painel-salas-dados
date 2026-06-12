@@ -246,6 +246,30 @@
     "turma": "TESTE"
   },
   {
+    "data": "2026-06-12",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Teste 01"
+  },
+  {
+    "data": "2026-06-12",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Teste 02"
+  },
+  {
+    "data": "2026-06-12",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA MÓVEL",
+    "turma": "Teste 03"
+  },
+  {
+    "data": "2026-06-12",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Teste 04"
+  },
+  {
     "data": "2026-06-13",
     "diaSemana": "SÁBADO",
     "sala": "LAB. INFORMÁTICA",
