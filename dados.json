@@ -276,6 +276,12 @@
     "turma": "AUTOMAÇÃO 1º MÓD."
   },
   {
+    "data": "2026-06-15",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "PROVA SAEP - Eletromecânica"
+  },
+  {
     "data": "2026-06-16",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
@@ -327,7 +333,7 @@
     "data": "2026-06-17",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
-    "turma": "SAEP"
+    "turma": "SAEP - Eletrotécnica"
   },
   {
     "data": "2026-06-18",
@@ -357,13 +363,13 @@
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
-    "turma": "SAEP"
+    "turma": "SAEP - Eletrotécnica"
   },
   {
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
-    "turma": "APP - Montagem de Painéis"
+    "turma": "SAEP - Eletrotécnica"
   },
   {
     "data": "2026-06-20",
@@ -478,12 +484,6 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-25",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "APP - Montagem de Painéis"
   },
   {
     "data": "2026-06-27",
