@@ -308,6 +308,12 @@
   {
     "data": "2026-06-17",
     "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "EJA"
+  },
+  {
+    "data": "2026-06-17",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Operador de processos"
   },
