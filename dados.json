@@ -356,6 +356,12 @@
   {
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Treinamento WorldSkills"
+  },
+  {
+    "data": "2026-06-18",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Eletromecanica 1°"
   },
