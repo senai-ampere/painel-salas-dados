@@ -356,8 +356,8 @@
   {
     "data": "2026-06-18",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Eletromecanica1º"
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Eletromecanica 1°"
   },
   {
     "data": "2026-06-18",
@@ -382,6 +382,12 @@
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "ELETROTÉCNICA | 3º MÓD"
+  },
+  {
+    "data": "2026-06-20",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "SAEP Segurança"
   },
   {
     "data": "2026-06-20",
