@@ -404,7 +404,13 @@
   {
     "data": "2026-06-22",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
+    "sala": "SALA 02",
+    "turma": "AUTOMAÇÃO 1º MÓD."
+  },
+  {
+    "data": "2026-06-22",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
     "turma": "ADMINISTRAÇÃO"
   },
   {
@@ -412,12 +418,6 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-22",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 1º MÓD."
   },
   {
     "data": "2026-06-23",
