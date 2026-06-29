@@ -518,6 +518,12 @@
   {
     "data": "2026-06-29",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "AUTOMAÇÃO 1º MÓD."
+  },
+  {
+    "data": "2026-06-29",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
     "turma": "Solda MIG/MAG"
   },
@@ -526,12 +532,6 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-29",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 1º MÓD."
   },
   {
     "data": "2026-06-30",
