@@ -1,572 +1,374 @@
 [
   {
-    "data": "2026-06-01",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-01",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-06-01",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Torneiro Mecanico"
-  },
-  {
-    "data": "2026-06-01",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "Automação T2 | 1º Semestre"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Automação T2 | 1º Semestre"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Torneiro Mecanico"
-  },
-  {
-    "data": "2026-06-02",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "Automação T1 | 2º Semestre"
-  },
-  {
-    "data": "2026-06-03",
+    "data": "2026-07-01",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "TÉC. QUALIDADE"
+    "turma": "Treinamento WorldSkills"
   },
   {
-    "data": "2026-06-03",
+    "data": "2026-07-01",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Assi. de Recursos humanos"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Reunião robótica"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL",
     "turma": "Operador de processos"
   },
   {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "EJA"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Torneiro Mecanico"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "Automação T1 | 2º Semestre"
-  },
-  {
-    "data": "2026-06-03",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "SAEP"
-  },
-  {
-    "data": "2026-06-04",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "FERIADO"
-  },
-  {
-    "data": "2026-06-08",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-08",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "PROVA SESI"
-  },
-  {
-    "data": "2026-06-08",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-06-08",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-08",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "automação 1º mód."
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Reunião Pais SESI"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "AUTOMAÇÃO 1º MÓD."
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL",
-    "turma": "TEATRO"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-09",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-10",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Reunião Pais SESI"
-  },
-  {
-    "data": "2026-06-10",
+    "data": "2026-07-01",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "ELETROMEÂNICA 1º MÓD."
+    "turma": "ELETROMECÂNICA 1º MÓD."
   },
   {
-    "data": "2026-06-10",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL",
-    "turma": "OPERADOR  PROCESSOS DE PRODUÇÃO"
-  },
-  {
-    "data": "2026-06-10",
+    "data": "2026-07-01",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
   },
   {
-    "data": "2026-06-10",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-10",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "SAEP"
-  },
-  {
-    "data": "2026-06-11",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-11",
+    "data": "2026-07-02",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "OPERADOR DE PROCESSOS"
+    "turma": "Operador de processos"
   },
   {
-    "data": "2026-06-11",
+    "data": "2026-07-02",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "ELETROMECÂNICA 1º MÓD."
   },
   {
-    "data": "2026-06-11",
+    "data": "2026-07-02",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-11",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "APP - Montagem de Painéis"
-  },
-  {
-    "data": "2026-06-13",
-    "diaSemana": "SÁBADO",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "ELETROMECÂNICA | 3º MÓD."
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "REUNIÃO PAIS APRENDIZAGEM"
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 1º MÓD."
-  },
-  {
-    "data": "2026-06-15",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "PROVA SAEP - Eletromecânica"
-  },
-  {
-    "data": "2026-06-16",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Automação T2 | 1º Semestre"
-  },
-  {
-    "data": "2026-06-16",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
-  },
-  {
-    "data": "2026-06-16",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-16",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "EJA"
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Eletromecanica1º"
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-17",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "SAEP - Eletrotécnica"
-  },
-  {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
     "turma": "Treinamento WorldSkills"
   },
   {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Eletromecanica 1°"
-  },
-  {
-    "data": "2026-06-18",
+    "data": "2026-07-02",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
   },
   {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "SAEP - Eletrotécnica"
-  },
-  {
-    "data": "2026-06-18",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "SAEP - Eletrotécnica"
-  },
-  {
-    "data": "2026-06-20",
-    "diaSemana": "",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA | 3º MÓD"
-  },
-  {
-    "data": "2026-06-20",
-    "diaSemana": "",
+    "data": "2026-07-04",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "SAEP Segurança"
+    "turma": "TCC - Eletromecânica e Eletrotécnica"
   },
   {
-    "data": "2026-06-20",
-    "diaSemana": "",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. ELETROMECÂNICA | 4º MÓD"
-  },
-  {
-    "data": "2026-06-22",
+    "data": "2026-07-06",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
-    "turma": "AUTOMAÇÃO 1º MÓD."
+    "turma": "Aux. Eletricista Predial"
   },
   {
-    "data": "2026-06-22",
+    "data": "2026-07-06",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-07",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Teste"
+  },
+  {
+    "data": "2026-07-07",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-08",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-08",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-09",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-09",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-09",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-11",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-07-11",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. INFORMÁTICA",
+    "turma": "TCC - Eletromecânica e Eletrotécnica"
+  },
+  {
+    "data": "2026-07-13",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-13",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-14",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-15",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-15",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-16",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-16",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-16",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-18",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-07-18",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TCC - Eletromecânica e Eletrotécnica"
+  },
+  {
+    "data": "2026-07-20",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-20",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-21",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-22",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-22",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-23",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-23",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-23",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-25",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-07-25",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TCC - Eletromecânica e Eletrotécnica"
+  },
+  {
+    "data": "2026-07-27",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
     "turma": "ADMINISTRAÇÃO"
   },
   {
-    "data": "2026-06-22",
+    "data": "2026-07-27",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
   },
   {
-    "data": "2026-06-23",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
+    "data": "2026-07-27",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Vestuário- 1º Mod"
+  },
+  {
+    "data": "2026-07-27",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-27",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
     "turma": "AUTOMAÇÃO 1º MÓD."
   },
   {
-    "data": "2026-06-23",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-23",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "TÉC. QUALIDADE"
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Eletromecanica1º"
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-24",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
-  },
-  {
-    "data": "2026-06-25",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
-  },
-  {
-    "data": "2026-06-25",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-06-25",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Eletromecanica1º"
-  },
-  {
-    "data": "2026-06-25",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-27",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA | 3º MÓD"
-  },
-  {
-    "data": "2026-06-27",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. ELETROMECÂNICA | 4º MÓD"
-  },
-  {
-    "data": "2026-06-27",
-    "diaSemana": "SÁBADO",
+    "data": "2026-07-27",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. ELÉTRICA",
-    "turma": "ELETROMECÂNICA | 3º MÓD."
+    "turma": "Aux. Eletricista Predial"
   },
   {
-    "data": "2026-06-29",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "AUTOMAÇÃO 1º MÓD."
-  },
-  {
-    "data": "2026-06-29",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Solda MIG/MAG"
-  },
-  {
-    "data": "2026-06-29",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-06-30",
+    "data": "2026-07-28",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
-    "turma": "ELETROTÉCNICA 1º MÓD."
+    "turma": "Eletrotécnica 1º Mód."
   },
   {
-    "data": "2026-06-30",
+    "data": "2026-07-28",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Automação T2 | 1º Semestre"
+    "turma": "AUTOMAÇÃO 2º MÓD."
   },
   {
-    "data": "2026-06-30",
+    "data": "2026-07-28",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Solda MIG/MAG"
+    "turma": "Vestuário- 1º Mod"
   },
   {
-    "data": "2026-06-30",
+    "data": "2026-07-28",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
   },
   {
-    "data": "2026-06-30",
+    "data": "2026-07-28",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO E MIG E MAG"
+  },
+  {
+    "data": "2026-07-28",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "AUTOMAÇÃO 1º MÓD."
+  },
+  {
+    "data": "2026-07-29",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica 1º Mod Presencial"
+  },
+  {
+    "data": "2026-07-29",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "AUTOMAÇÃO 2º MÓD."
+  },
+  {
+    "data": "2026-07-29",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-29",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "ELETROMECÂNICA 1º MÓD."
+  },
+  {
+    "data": "2026-07-29",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
   },
   {
-    "data": "2026-06-30",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 2º MÓD."
+    "data": "2026-07-30",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica 1º Mod Presencial"
+  },
+  {
+    "data": "2026-07-30",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Operador de processos"
+  },
+  {
+    "data": "2026-07-30",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "ELETROMECÂNICA 1º MÓD."
+  },
+  {
+    "data": "2026-07-30",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "TORNEIRO MECÂNICO"
+  },
+  {
+    "data": "2026-07-30",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
   }
 ]
