@@ -188,6 +188,12 @@
   {
     "data": "2026-07-21",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-07-21",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO E MIG E MAG"
   },
