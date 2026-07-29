@@ -92,6 +92,18 @@
   {
     "data": "2026-07-09",
     "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TESTE"
+  },
+  {
+    "data": "2026-07-09",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "TESTE"
+  },
+  {
+    "data": "2026-07-09",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "TORNEIRO MECÂNICO"
   },
@@ -100,6 +112,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-07-10",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "TESTE"
   },
   {
     "data": "2026-07-11",
