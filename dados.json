@@ -1,392 +1,356 @@
 [
   {
-    "data": "2026-07-01",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Treinamento WorldSkills"
-  },
-  {
-    "data": "2026-07-01",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-01",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ELETROMECÂNICA 1º MÓD."
-  },
-  {
-    "data": "2026-07-01",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-02",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-02",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ELETROMECÂNICA 1º MÓD."
-  },
-  {
-    "data": "2026-07-02",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Treinamento WorldSkills"
-  },
-  {
-    "data": "2026-07-02",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-04",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TCC - Eletromecânica e Eletrotécnica"
-  },
-  {
-    "data": "2026-07-06",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-06",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-07",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-08",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-08",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-09",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-09",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TESTE"
-  },
-  {
-    "data": "2026-07-09",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "TESTE"
-  },
-  {
-    "data": "2026-07-09",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-09",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-10",
-    "diaSemana": "SEXTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "TESTE"
-  },
-  {
-    "data": "2026-07-11",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 03",
-    "turma": "ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-07-11",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TCC - Eletromecânica e Eletrotécnica"
-  },
-  {
-    "data": "2026-07-13",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-13",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-14",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-15",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-15",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-16",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-16",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-16",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-18",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 03",
-    "turma": "ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-07-18",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TCC - Eletromecânica e Eletrotécnica"
-  },
-  {
-    "data": "2026-07-20",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-20",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-21",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
-  },
-  {
-    "data": "2026-07-21",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-22",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-22",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-23",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-23",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-23",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-25",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 03",
-    "turma": "ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-07-25",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TCC - Eletromecânica e Eletrotécnica"
-  },
-  {
-    "data": "2026-07-27",
+    "data": "2026-08-03",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
     "turma": "ADMINISTRAÇÃO"
   },
   {
-    "data": "2026-07-27",
+    "data": "2026-08-03",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
     "turma": "Aux. Eletricista Predial"
   },
   {
-    "data": "2026-07-27",
+    "data": "2026-08-03",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Vestuário- 1º Mod"
+    "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-07-27",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-27",
+    "data": "2026-08-03",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 1º MÓD."
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "data": "2026-07-27",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-07-28",
+    "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
-    "turma": "Eletrotécnica 1º Mód."
+    "turma": "Eletrotécnica"
   },
   {
-    "data": "2026-07-28",
+    "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
-    "turma": "AUTOMAÇÃO 2º MÓD."
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "data": "2026-07-28",
+    "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Vestuário- 1º Mod"
+    "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-07-28",
+    "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
   },
   {
-    "data": "2026-07-28",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO E MIG E MAG"
-  },
-  {
-    "data": "2026-07-28",
+    "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
-    "turma": "AUTOMAÇÃO 1º MÓD."
+    "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "data": "2026-07-29",
+    "data": "2026-08-05",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "Eletrotécnica 1º Mod Presencial"
+    "turma": "Eletrotécnica"
   },
   {
-    "data": "2026-07-29",
+    "data": "2026-08-05",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "AUTOMAÇÃO 2º MÓD."
+    "turma": "Automação T1 | 2º Semestre"
   },
   {
-    "data": "2026-07-29",
+    "data": "2026-08-05",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Operador de processos"
+    "turma": "TÉC. QUALIDADE"
   },
   {
-    "data": "2026-07-29",
+    "data": "2026-08-05",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "ELETROMECÂNICA 1º MÓD."
+    "turma": "Eletromecanica 1º"
   },
   {
-    "data": "2026-07-29",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
-  },
-  {
-    "data": "2026-07-30",
+    "data": "2026-08-06",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "Eletrotécnica 1º Mod Presencial"
+    "turma": "Eletrotécnica"
   },
   {
-    "data": "2026-07-30",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Operador de processos"
-  },
-  {
-    "data": "2026-07-30",
+    "data": "2026-08-06",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "ELETROMECÂNICA 1º MÓD."
+    "turma": "Eletromecanica 1º"
   },
   {
-    "data": "2026-07-30",
+    "data": "2026-08-07",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ADMINISTRAÇÃO"
+  },
+  {
+    "data": "2026-08-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-08-11",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-11",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T1 | 2º Semestre"
+  },
+  {
+    "data": "2026-08-11",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-11",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-08-11",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-08-12",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-12",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Automação T1 | 2º Semestre"
+  },
+  {
+    "data": "2026-08-12",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. QUALIDADE"
+  },
+  {
+    "data": "2026-08-12",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Eletromecanica 1º"
+  },
+  {
+    "data": "2026-08-13",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "TORNEIRO MECÂNICO"
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
   },
   {
-    "data": "2026-07-30",
+    "data": "2026-08-13",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Eletromecanica 1º"
+  },
+  {
+    "data": "2026-08-13",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-17",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ADMINISTRAÇÃO"
+  },
+  {
+    "data": "2026-08-17",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-17",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-17",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-08-18",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-18",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-18",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-08-18",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-08-19",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-19",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. QUALIDADE"
+  },
+  {
+    "data": "2026-08-20",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-20",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ADMINISTRAÇÃO"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-08-26",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-26",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. QUALIDADE"
+  },
+  {
+    "data": "2026-08-26",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Solidworks"
+  },
+  {
+    "data": "2026-08-27",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-27",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Solidworks"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "ADMINISTRAÇÃO"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
   }
 ]
