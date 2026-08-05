@@ -402,12 +402,6 @@
     "turma": "Automação T2 | 1º Semestre"
   },
   {
-    "data": "2026-08-17",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
-  },
-  {
     "data": "2026-08-18",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
@@ -448,12 +442,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "Automação T2 | 1º Semestre"
-  },
-  {
-    "data": "2026-08-18",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-19",
@@ -564,6 +552,12 @@
     "turma": "Torneiro Mecânico"
   },
   {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
+  },
+  {
     "data": "2026-08-25",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
@@ -592,6 +586,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Torneiro Mecânico"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-26",
@@ -712,5 +712,11 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
   }
 ]
