@@ -1,241 +1,103 @@
 [
   {
-    "data": "2026-09-01",
-    "diaSemana": "TERÇA-FEIRA",
+    "data": "2026-10-01",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-09-01",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-02",
+    "data": "2026-10-07",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. QUALIDADE"
-  },
-  {
-    "data": "2026-09-02",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-03",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-03",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-09-07",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "FERIADO"
-  },
-  {
-    "data": "2026-09-08",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-09-08",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-09-08",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-09",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. QUALIDADE"
-  },
-  {
-    "data": "2026-09-09",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-10",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-10",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-09-14",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-09-14",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-09-14",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-10-07",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-09-14",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-15",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-09-15",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-09-15",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-16",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. QUALIDADE"
-  },
-  {
-    "data": "2026-09-16",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-17",
+    "data": "2026-10-08",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-17",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-09-21",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-09-21",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-09-21",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-10-08",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-09-21",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-22",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-09-22",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-23",
+    "data": "2026-10-14",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. QUALIDADE"
-  },
-  {
-    "data": "2026-09-23",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-24",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-24",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-09-28",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-09-28",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-10-14",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-09-28",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-10-15",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-10-15",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-10-21",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-10-21",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-10-22",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-10-22",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-10-29",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Ass. Controle da Qualidade"
+  },
+  {
+    "data": "2026-10-29",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-09-29",
-    "diaSemana": "TERÇA-FEIRA",
+    "data": "2026-10-30",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Ass. Controle da Qualidade"
   },
   {
-    "data": "2026-09-29",
-    "diaSemana": "TERÇA-FEIRA",
+    "data": "2026-10-30",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   }
