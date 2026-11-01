@@ -1,103 +1,55 @@
 [
   {
-    "data": "2026-10-01",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-07",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-07",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-08",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-08",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-21",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-21",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-22",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-10-22",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-29",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-29",
-    "diaSemana": "QUARTA-FEIRA",
+    "data": "2026-11-02",
+    "diaSemana": "DOMINGO",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-30",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
+    "data": "2026-11-03",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-30",
-    "diaSemana": "QUINTA-FEIRA",
+    "data": "2026-11-09",
+    "diaSemana": "DOMINGO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-16",
+    "diaSemana": "DOMINGO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-17",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-23",
+    "diaSemana": "DOMINGO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-30",
+    "diaSemana": "DOMINGO",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   }
